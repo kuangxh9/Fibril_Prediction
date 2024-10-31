@@ -17,7 +17,7 @@ This repository contains two Jupyter Notebooks focused on predicting fibril stru
 
 ## Requirements
 
-- Python libraries: `keras`, `sklearn`, `torch`, `pandas`, `matplotlib`, `seaborn`, `tensorflow`, `joblib`, and `warnings`.
+- Python libraries: `keras`, `sklearn`, `torch`, `pandas`, `matplotlib`, `seaborn`, `tensorflow`, `joblib`.
 - Data files should be placed in the `data` directory.
 - Pre-trained models and metrics can be stored in the `trained_models` directory for reuse.
 
